@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DemoMVC",
+    "\\DemoMVC\\Controllers",
+    "\\DemoMVC\\Data",
+    "\\DemoMVC\\Models",
+    "\\DemoMVC\\Properties",
+    "\\DemoMVC\\Views",
+    "\\DemoMVC\\Views\\Alunos",
+    "\\DemoMVC\\Views\\Home"
+  ],
+  "SelectedNode": "\\DemoMVC\\Views\\Alunos\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

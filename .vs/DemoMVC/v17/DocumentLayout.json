@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\livros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\livros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\data\\migrations\\20241031211106_alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\migrations\\20241031211106_alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\alunos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\alunos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\livros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\livros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\livros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\livros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\data\\migrations\\20241106172630_livros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\migrations\\20241106172630_livros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\data\\migrations\\20241106172630_livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\migrations\\20241106172630_livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\alunos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\alunos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\models\\pesquisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\pesquisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\livros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\livros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\20241105192149_Livroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoMVC\\Data\\Migrations\\20241105192149_Livroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|c:\\users\\diogo.molina\\desktop\\diogo\\projeto controle de equipamentos\\projetinhos\\demomvc\\demomvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1BDD88B-FEF2-4B0D-A02E-4F1251370C73}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Models\\Livro.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\Livro.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:11:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Livros\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Livros\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Livros\\Edit.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Livros\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T20:54:09.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Alunos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Alunos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Alunos\\Edit.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Alunos\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T21:24:19.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "DemoMVC\\Controllers\\AlunosController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwIQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:05:41.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Controllers\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "DemoMVC\\Controllers\\LivrosController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAmwIkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:13:36.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Livros\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Livros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Livros\\Index.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Livros\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T20:54:12.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Alunos\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Alunos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Alunos\\Index.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Alunos\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T20:05:58.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Models\\Aluno.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\Aluno.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:43:52.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Alunos\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Alunos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Alunos\\Create.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Alunos\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T20:01:18.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241031211106_Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\20241031211106_Alunos.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Data\\Migrations\\20241031211106_Alunos.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\20241031211106_Alunos.cs",
+              "RelativeToolTip": "DemoMVC\\Data\\Migrations\\20241031211106_Alunos.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvx8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:21:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Alunos\\Details.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Alunos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Alunos\\Details.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Alunos\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T20:32:17.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T19:14:40.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T19:14:17.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Livros\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Livros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Livros\\Create.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Livros\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T20:53:06.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DemoMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:43:36.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Livros\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Livros\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Livros\\Delete.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Livros\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T20:53:50.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241106172630_Livros.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\20241106172630_Livros.Designer.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Data\\Migrations\\20241106172630_Livros.Designer.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\20241106172630_Livros.Designer.cs",
+              "RelativeToolTip": "DemoMVC\\Data\\Migrations\\20241106172630_Livros.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:59:52.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241106172630_Livros.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\20241106172630_Livros.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Data\\Migrations\\20241106172630_Livros.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\20241106172630_Livros.cs",
+              "RelativeToolTip": "DemoMVC\\Data\\Migrations\\20241106172630_Livros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:26:30.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DemoMVC\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:15:15.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Alunos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Alunos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Alunos\\Delete.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Alunos\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T20:31:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "DemoMVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T18:41:02.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Pesquisa.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Models\\Pesquisa.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\Pesquisa.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Models\\Pesquisa.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\Pesquisa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:51:35.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:44:12.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "DemoMVC\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:58:00.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Program.cs",
+              "RelativeToolTip": "DemoMVC\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAMwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:43:42.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:47:50.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Livros\\Details.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Livros\\Details.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Livros\\Details.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Livros\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwC4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T21:21:55.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T19:14:26.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241105192149_Livroes.cs",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\20241105192149_Livroes.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Data\\Migrations\\20241105192149_Livroes.cs",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Data\\Migrations\\20241105192149_Livroes.cs",
+              "RelativeToolTip": "DemoMVC\\Data\\Migrations\\20241105192149_Livroes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:21:49.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T19:14:36.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T19:14:37.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DemoMVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\appsettings.Development.json",
+              "RelativeToolTip": "DemoMVC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T18:44:50.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\appsettings.json",
+              "RelativeToolTip": "DemoMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T18:44:52.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoMVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\diogo.molina\\Desktop\\Diogo\\Projeto Controle de Equipamentos\\Projetinhos\\DemoMVC\\DemoMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoMVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T18:44:58.216Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1187,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
